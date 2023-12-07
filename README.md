@@ -30,7 +30,7 @@ it again as an input file and read the information from the file.
 ====================================================================================================
 5. Write a function template for selection sort that inputs, sorts and outputs an integer array and
 a float array.
-====================================================================================================
+============================================================================================
 GROUP C
 ===================================================================================================
 6. Write C++ program using STL for sorting and searching user defined records such as personal
